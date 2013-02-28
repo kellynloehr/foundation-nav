@@ -1,5 +1,6 @@
 
-RESPONSIVE NAVIGATION DEMO
+
+##Responsive Navigation Demo
 
 This is a dashboard type navigation built ontop of Zurb Foundation.
 
